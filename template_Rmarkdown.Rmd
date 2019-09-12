@@ -1,6 +1,6 @@
 ---
 title: "Basic Plots"
-author: "JTess Bloomquist"
+author: "Tess Bloomquist"
 date: 2019-09-10
 output: html_document
 ---
